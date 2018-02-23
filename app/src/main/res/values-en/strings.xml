@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Code reader</string>
+
+    <!-- activity -->
+    <string name="fragment_signin">Sign in</string>
+    <string name="fragment_login">Log in</string>
+    <string name="activity_reader">Scaning&#8230;</string>
+
+    <!-- hint -->
+    <string name="et_email">Email</string>
+    <string name="et_pass">Password</string>
+    <string name="cb_recordar">Remember me</string>
+    <string name="tv_cambiar_pass">¿Change password?</string>
+    <string name="tv_nm">Night mode</string>
+    <string name="tv_desconectar">Disconnect</string>
+
+    <!-- tin -->
+    <string name="tin_required">This field is required</string>
+    <string name="tin_pass_len">The password must have a minimum of 6 characters</string>
+
+    <!-- snack -->
+    <string name="snack_fail_login">Fail to login</string>
+    <string name="snack_fail_signin">There is already an user with that email</string>
+    <string name="snack_ok_signin">Created user</string>
+    <string name="snack_internet">Check your internet connection</string>
+    <string name="snack_email_enviado">mail sent, in a few minutes you will receive the email</string>
+    <string name="snack_delete"><b>Deleted</b></string>
+    <string name="snack_undo">Undo</string>
+    <string name="snack_permisos">I need to access the permissions</string>
+
+
+    <!-- dialogs -->
+    <string name="d_aviso_tit">Warning!!</string>
+    <string name="d_aviso">Are you sure you want to do it? This option can not be undone</string>
+    <string name="d_aviso_cambiar_pass">An email will be sent to</string>
+    <string name="d_aviso_cambiar_pass2">to change the password</string>
+    <string name="d_bt_ok">Accept</string>
+    <string name="d_bt_cancel">Cancel</string>
+
+    <!-- menu -->
+    <string name="menu_delete">Delete selected</string>
+    <string name="menu_escanear">Scan code</string>
+    <string name="menu_favorito">Add / Remove from favorites</string>
+
+    <string name="loading">Loading&#8230;</string>
+</resources>

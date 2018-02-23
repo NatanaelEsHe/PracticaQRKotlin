@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#212121</color>
+
+    <color name="separator">#BDBDBD</color>
+    <color name="check">#455A64</color>
+    <color name="negro">#000000</color>
+    <color name="negro_static">#000000</color>
+    <color name="blanco_static">#FFFFFF</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="bg_popup">@color/blanco</color>
+    <color name="amarillo">#FFFF00</color>
+</resources>

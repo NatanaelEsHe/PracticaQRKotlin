@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Lector de códigos QR</string>
+
+    <!-- activity -->
+    <string name="fragment_signin">Crear cuenta</string>
+    <string name="fragment_login">Iniciar sesion</string>
+    <string name="activity_reader">Escaneando...</string>
+
+    <!-- hint -->
+    <string name="et_email">Email</string>
+    <string name="et_pass">Constraseña</string>
+    <string name="cb_recordar">Recordame</string>
+    <string name="tv_cambiar_pass">¿Cambiar contraseña?</string>
+    <string name="tv_nm">Modo noche</string>
+    <string name="tv_desconectar">Desconectar</string>
+
+    <!-- tin -->
+    <string name="tin_required">Este campo es obligatorio</string>
+    <string name="tin_pass_len">La contraseña tiene que tener minimo 6 caracteres</string>
+
+    <!-- snack -->
+    <string name="snack_fail_login">Fallo al iniciar sesión</string>
+    <string name="snack_fail_signin">Ya existe un usuario con ese email</string>
+    <string name="snack_ok_signin">Usuario creado</string>
+    <string name="snack_internet">Comprueba tu conexión a internet</string>
+    <string name="snack_email_enviado">Email enviado, en unos minutos recibiras el correo</string>
+    <string name="snack_delete"><b>Eliminado</b></string>
+    <string name="snack_undo">Deshacer</string>
+    <string name="snack_permisos">Necesito acceder a los permisos</string>
+
+
+    <!-- dialogs -->
+    <string name="d_aviso_tit">Aviso!!</string>
+    <string name="d_aviso">¿Estás seguro de que quieres hacerlo? Esta opción no puede deshacerse</string>
+    <string name="d_aviso_cambiar_pass">Se enviará un correo a</string>
+    <string name="d_aviso_cambiar_pass2">para cambiar la contraseña</string>
+    <string name="d_bt_ok">Aceptar</string>
+    <string name="d_bt_cancel">Cancelar</string>
+
+    <!-- menu -->
+    <string name="menu_delete">Eliminar seleccionados</string>
+    <string name="menu_escanear">Escanear código</string>
+    <string name="menu_favorito">Añadir/Eliminar de favoritos</string>
+
+    <string name="loading">Cargando&#8230;</string>
+</resources>

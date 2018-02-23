@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "594107037551",
+    "firebase_url": "https://qr-reader-164eb.firebaseio.com",
+    "project_id": "qr-reader-164eb",
+    "storage_bucket": "qr-reader-164eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594107037551:android:ca5d1de311d6fac8",
+        "android_client_info": {
+          "package_name": "nathan.com.practica_qr_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594107037551-52dp82icc7j77s6pekoj2lelkabca3d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAyj8jhq1awkSkKx_XMM5kO4E4ddWroYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
